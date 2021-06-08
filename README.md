@@ -13,7 +13,7 @@ const CONFIG = {
     Violet is blue 
     I just wanna ask
     Do you love me too?`,
-    btnIntro: '你好',
+    btnIntro: '也许?',
     title: 'This is for u',
     desc: 'Just let me take care of you ',
     btnYes: 'Tất nhiên rồi',
