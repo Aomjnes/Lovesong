@@ -1,9 +1,9 @@
 const CONFIG = {
     introTitle: 'Chang à!',
-    introDesc: `Rose is red
-    Violet is blue 
+    introDesc: `Rose is red.
+    Violet is blue. 
     I just wanna ask
-    Do you love me too?`,
+    .Do you love me too?`,
     btnIntro: '也许?',
     title: 'This is for u',
     desc: 'Just let me take care of you ',
